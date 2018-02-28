@@ -1,0 +1,53 @@
+body {
+    padding-top: 70px; /
+}
+
+.btn-group{
+    float: right;
+    margin-bottom: 20px;
+}
+.slide-image {
+    width: 100%;
+}
+
+.banner-wrap {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 140px;
+    overflow: visible;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    position:relative;
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
